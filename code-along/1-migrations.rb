@@ -22,6 +22,7 @@
 
 # 5. check the schema to confirm the change
 # pay attention to the SQL in the log
+# rails runner data.rb?
 
 # - Add model and table for the Contact entity in our domain model
 
